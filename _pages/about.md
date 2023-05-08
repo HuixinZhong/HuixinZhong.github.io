@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD student in the [Bristol Robotics Laboratory](https://www.bristolroboticslab.com/) and [Visual Information Laboratory](https://vilab.blogs.bristol.ac.uk/) at the University of Bristol. 
+I am a PhD student in the [Center for Doctoral Training in Accountable, Responsible and Transparent AI](https://cdt-art-ai.ac.uk) at the University of Bath, specializing in behavioral economics and law. 
 
-I use binary Convolutional Neural Network and other parallel techniques to deploy algorithms on a novel visual device [SCAMP](https://personalpages.manchester.ac.uk/staff/jianing.chen/scamp5d_lib_doc_html/index.html) (under the support of EPSRC [AGILE](https://sites.google.com/view/project-agile/home) project) for robotics-related research and applications. My advisors are Professor [Walterio Mayol-Cuevas](http://people.cs.bris.ac.uk/~wmayol//), Dr [Laurie Bose](https://scholar.google.co.uk/citations?hl=en&user=HRkkhyIAAAAJ&view_op=list_works&sortby=pubdate), and Professor [Thomas Richardson](http://www.bristol.ac.uk/engineering/people/tom-s-richardson/overview.html) .
+I am invesitgating the role of social influence on decision-making in human-AI teams from behaivor economics perspective, and machine bias from mutidisplinary perspective (funded by the UKRI and the University of Bath).
 
 # Latest news  
 
