@@ -14,8 +14,8 @@ I am invesitgating the role of social influence on decision-making in human-AI t
 # Latest news  
 
     
-* Submmited a policy report entitled 'Knowledge Across Boundaries: Promoting Global Cooperation on AI Regulation' to United Nation Office of the Secretary-General’s Envoy on Technology: Global Digital Compact [Global Digital Compact](https://www.un.org/techenvoy/sites/www.un.org.techenvoy/files/GDC-submission_ART-AI_University-of-Bath.pdf)  
+* Submmited a policy report entitled 'Knowledge Across Boundaries: Promoting Global Cooperation on AI Regulation' to United Nation Office of the Secretary-General’s Envoy on Technology:[Global Digital Compact](https://www.un.org/techenvoy/sites/www.un.org.techenvoy/files/GDC-submission_ART-AI_University-of-Bath.pdf)  
 
-* [Best poster of University of Bath, Bristol University and UCL Inter CDT AI conference]  
+* Best poster of University of Bath, Bristol University and UCL Inter CDT AI conference  
 
 * The team I led won as a finalist team in the United Nation AI for SDGs Youth Bootcamp: [A Rob-advisor for Low-income Population Based on China’s E-RMB Application](https://www.ai4sdgbootcamp.org/solutions)
