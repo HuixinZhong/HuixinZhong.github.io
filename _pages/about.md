@@ -14,7 +14,7 @@ I am invesitgating the role of social influence on decision-making in human-AI t
 # Latest news  
 
     
-* Submmited a policy report: [Knowledge Across Boundaries: Promoting Global Cooperation on AI Regulation] (https://www.un.org/techenvoy/sites/www.un.org.techenvoy/files/GDC-submission_ART-AI_University-of-Bath.pdf) to the United Nation Office of the Secretary-General’s Envoy on Technology:Global Digital Compact  
+* Submmited a policy report: [Knowledge Across Boundaries: Promoting Global Cooperation on AI Regulation](https://www.un.org/techenvoy/sites/www.un.org.techenvoy/files/GDC-submission_ART-AI_University-of-Bath.pdf) to the United Nation Office of the Secretary-General’s Envoy on Technology:Global Digital Compact  
 
 * Best poster of University of Bath, Bristol University and UCL Inter CDT AI conference  
 
