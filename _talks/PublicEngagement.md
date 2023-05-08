@@ -1,4 +1,3 @@
-
 ---
 title: "人工智能与人类未来：不断解放的大脑与无可替代的情感 | 学科真实画像计划 (Artificial Intelligence and the Future of Humanity: Liberating Minds and Irreplaceable Emotions｜Discipline Realistic Portrait series）."
 collection: talks and presentation
