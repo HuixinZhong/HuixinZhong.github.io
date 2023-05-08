@@ -1,13 +1,11 @@
 ---
-title: "Artificial Intelligence and the Future of Humanity: Liberating Minds and Irreplaceable Emotions｜Discipline Realistic Portrait series"
+title: "人工智能与人类未来：不断解放的大脑与无可替代的情感 | 学科真实画像计划: Artificial Intelligence and the Future of Humanity: Liberating Minds and Irreplaceable Emotions｜Discipline Realistic Portrait series"
 collection: talks and presentation
 type: "Public Engagement"
 venue: "Star College"
 date: 4th of June. 2022
 location: "China"
 ---
-
-人工智能与人类未来：不断解放的大脑与无可替代的情感 | 学科真实画像计划 (Artificial Intelligence and the Future of Humanity: Liberating Minds and Irreplaceable Emotions｜Discipline Realistic Portrait series）.
 
 Manuscript: [Artificial Intelligence and the Future of Humanity: Liberating Minds and Irreplaceable Emotions｜Discipline Realistic Portrait series](https://mp.weixin.qq.com/s/HwGK69aNMWWXI4aJohZOsQ)
 
