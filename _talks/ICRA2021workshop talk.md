@@ -1,18 +1,13 @@
 ---
-title: "ICRA2021 workshop ONSVP"
+title: "Invited Talk in Zhejiang Lab"
 collection: talks and presentation
-type: "Conference proceedings talk"
-permalink: https://sites.google.com/view/onsvp-icra-2021-workshop/home
-venue: "IEEE International Conference on Robotics and Automation (ICRA) 2021, On- and Near-sensor Vision Processing, from Photons to Applications (ONSVP)"
-date: 4th June 2021
-location: "Xi'an, China"
+type: "Invited talk"
+date: 19th April 2021
+location: "Zhejiang, China"
 ---
 
-paper: 
-1: Direct Servo Control from In-Sensor CNN Inference with A Pixel Processor Array  
+Title: 
+1: The landscape of AI ethics and safety from the UK to China  
 
-2: Bringing A Robot Simulator to the SCAMP Vision System
+[Talk Abstract]()
 
-[paper website](https://sites.google.com/view/onsvp-icra-2021-workshop/home)
-
-[ICRA 2021 workshop Best Poster/Video](https://sites.google.com/view/onsvp-icra-2021-workshop/home#h.s7iav5hwmnnn)
