@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Yanan Liu"
+title                    : "Huixin(Elsa) Zhong"
 title_separator          : "-"
-name                     : &name "Yanan Liu"
-description              : &description "PhD student at Bristol Robotics Laboratory, the University of Bristol"
-url                      : https://yananliusdu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Huixin(Elsa) Zhong"
+description              : &description "PhD student at the Center for Doctoral Training in Accountable, Responsible and Transparent AI, the University of Bath"
+url                      : https://HuixinZhong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yananliusdu/yananliusdu.github.io"
+repository               : "HuixinZhong/HuixinZhong.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,16 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yanan Liu"
-  avatar           : "profile.jpg"
-  bio              : "PhD student at the Bristol Robotics Laboratory, University of Bristol"
-  location         : "Bristol, UK"
+  name             : "Huixin(Elsa) Zhong"
+  avatar           : "ProfileImage.jpeg"
+  bio              : "PhD student at the the Center for Doctoral Training in Accountable, Responsible and Transparent AI, University of Bath"
+  location         : "Bath, UK"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.hk/citations?user=7otPL_QAAAAJ&hl=en"
-  email            : yanan.liu@ieee.org
-  researchgate     : "https://www.researchgate.net/profile/Liu_Yanan19"
-  strava           : "https://www.strava.com/athletes/yananliu"
+  googlescholar    : "https://scholar.google.com/citations?user=knbysawAAAAJ&hl=zh-CN"
+  email            : hz877@bath.ac.uk
+  researchgate     : "https://www.researchgate.net/profile/Huixin-Zhong"
+  strava           : 
   uri              :
   bitbucket        :
   codepen          :
@@ -97,20 +97,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yananliusdu"
+  github           : "HuixinZhong"
   google_plus      :
   keybase          :
   instagram        : 
   impactstory      : 
   lastfm           :
-  linkedin         : "yanan-liu-608b3190"
+  linkedin         : "https://www.linkedin.com/in/huixin-zhong-750b9111b/"
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "liuyanansdu"
+  twitter          : "@elsa_zhong"
   vine             :
   weibo            :
   xing             :
