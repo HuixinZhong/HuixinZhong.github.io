@@ -8,8 +8,7 @@ date: 2023-01-01
 location: "Bath, UK"
 ---
 
-This unit requires students majoring in AI to put forward an interdisciplinary solution including
-computer science, social science, and electronic engineering in a group based on the current challenges faced by AI. I guide each team in brainstorming, formulating the division of labor and timeline, and the social science aspect of the project.
+In this unit, AI Ph.D. students are required to collaborate in interdisciplinary teams to propose solutions to current AI challenges that integrate computer science, social science, and electronic engineering. As the instructor, I guide each team in brainstorming, establishing clear roles and responsibilities, developing timelines, and ensuring that the social science aspect of the project is fully considered.
 
 
 
