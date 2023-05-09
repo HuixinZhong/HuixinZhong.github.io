@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant for the Pervasive Computing Unit"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "University of Bath, Department of Computer Science"
+date: 2020-09-30
+location: "Bath, UK"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+This unit was designed for the master student in human-AI interaction. I delivered a guest lecture about privacy and algorithm manipulation to students, and organized weekly Q&A sessions.
