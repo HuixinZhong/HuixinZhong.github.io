@@ -6,10 +6,15 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - 
 ---
-I completed my Ph.D. at the [Center for Doctoral Training in Accountable, Responsible and Transparent AI](https://cdt-art-ai.ac.uk) at the University of Bath, specializing in interdisciplinary research spanning AI, psychology, behavioral economics, and law.
+I have recently started as an Assistant Professor at the Enterprise-Industrial College, Xi'an Jiaotong-Liverpool University. My research focuses on AI ethics and governance, particularly interdisciplinary AI governance mechanisms and auditing, as well as human-AI collective decision-making and machine psychology with a focus on large language models (LLMs).
 
-My Ph.D. thesis, titled "Understanding Social Influence on Decision-Making in Human-AI Teams," explored the dynamics of social conformity within human-AI interactions. In addition to this, my broader research focuses on interdisciplinary AI governance. I am currently expanding into an emerging field known as machine psychology.
+I earned my Ph.D. at the my Ph.D. at the [Center for Doctoral Training in Accountable, Responsible and Transparent AI](https://cdt-art-ai.ac.uk) at the University of Bath, where I conducted interdisciplinary research bridging AI, psychology, behavioral economics, and law.
+
+I also hold a Master of Research (MRes) degree in Accountable, Responsible, and Transparent AI with Distinction from the University of Bath (UK), an MSc in Social Psychology from Lancaster University (UK), and a dual-major bachelor's degree in Psychology and Law from Chongqing Medical University (China).
+
+I'm seeking collaborators, research assistants, and expressions of interest from students considering a PhD starting in 2026. Ideal applicants may come from psychology, AI, behavioral economics, law, or related fields. Interdisciplinary backgrounds are a plus, but not required—I’ll help you become a multi-disciplinary expert. My aim is to train future leaders，enablers, facilitator, or practitioner for the human-AI coexistence era.
 
 # Latest news  
 
