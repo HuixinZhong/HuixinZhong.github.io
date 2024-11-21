@@ -10,7 +10,7 @@ redirect_from:
 ---
 I have recently started as an Assistant Professor at the Enterprise-Industrial College, Xi'an Jiaotong-Liverpool University. My research focuses on AI ethics and governance, particularly interdisciplinary AI governance mechanisms and auditing, as well as human-AI collective decision-making and machine psychology with a focus on large language models (LLMs).
 
-I earned my Ph.D. at the my Ph.D. at the [Center for Doctoral Training in Accountable, Responsible and Transparent AI](https://cdt-art-ai.ac.uk) at the University of Bath, where I conducted interdisciplinary research bridging AI, psychology, behavioral economics, and law.
+I earned my Ph.D. at the [Center for Doctoral Training in Accountable, Responsible and Transparent AI](https://cdt-art-ai.ac.uk) at the University of Bath, where I conducted interdisciplinary research bridging AI, psychology, behavioral economics, and law.
 
 I also hold a Master of Research (MRes) degree in Accountable, Responsible, and Transparent AI with Distinction from the University of Bath (UK), an MSc in Social Psychology from Lancaster University (UK), and a dual-major bachelor's degree in Psychology and Law from Chongqing Medical University (China).
 
